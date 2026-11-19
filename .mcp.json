@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "photoproduct": {
+      "type": "http",
+      "url": "https://photoproduct.io/mcp"
+    }
+  }
+}
