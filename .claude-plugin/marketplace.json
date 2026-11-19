@@ -1,0 +1,19 @@
+{
+  "name": "photoproduct",
+  "owner": {
+    "name": "Photoproduct.io",
+    "email": "support@photoproduct.io"
+  },
+  "metadata": {
+    "description": "Photoproduct.io for Claude Code: image, video and audio generation with more than 1,000 models."
+  },
+  "plugins": [
+    {
+      "name": "photoproduct",
+      "source": "./",
+      "description": "The Photoproduct.io MCP server and a skill for product photos, characters, scenes and video.",
+      "version": "1.0.0",
+      "homepage": "https://photoproduct.io/agents"
+    }
+  ]
+}

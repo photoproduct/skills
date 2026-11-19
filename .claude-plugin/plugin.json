@@ -1,0 +1,21 @@
+{
+  "name": "photoproduct",
+  "version": "1.0.0",
+  "description": "Make images, video, music, voiceovers and 3D with more than 1,000 generation models from Photoproduct.io: the MCP server plus a skill for product photos, characters, scenes and video.",
+  "author": {
+    "name": "Photoproduct.io",
+    "email": "support@photoproduct.io",
+    "url": "https://photoproduct.io"
+  },
+  "homepage": "https://photoproduct.io/agents",
+  "license": "MIT",
+  "keywords": [
+    "image generation",
+    "video generation",
+    "audio",
+    "product photos",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://photoproduct.io/privacy",
+  "repository": "https://github.com/photoproduct/skills"
+}
